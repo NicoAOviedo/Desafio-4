@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "primer producto",
+      "description": "Agregado correctamente",
+      "price": 78,
+      "stock": 19,
+      "thumbnails": [],
+      "status": true,
+      "category": "",
+      "code": "AAA001"
+    },
+    {
+      "id": 2,
+      "title": "segundo producto",
+      "description": "Agregado correctamente",
+      "price": 78,
+      "stock": 19,
+      "thumbnails": [],
+      "status": true,
+      "category": "",
+      "code": "AAA002"
+    },
+    {
+      "id":3,
+      "title": "tercero producto",
+      "description": "Agregado correctamente",
+      "price": 78,
+      "stock": 19,
+      "thumbnails": [],
+      "status": true,
+      "category": "",
+      "code": "AAA003"
+    },
+    {
+      "id":4,
+      "title": "cuarto producto",
+      "description": "Agregado correctamente",
+      "price": 78,
+      "stock": 19,
+      "thumbnails": [],
+      "status": true,
+      "category": "",
+      "code": "AAA004"
+    },
+    {
+      "id":5,
+      "title": "quinto producto",
+      "description": "Agregado correctamente",
+      "price": 78,
+      "stock": 19,
+      "thumbnails": [],
+      "status": true,
+      "category": "",
+      "code": "AAA005"
+    }
+  ]

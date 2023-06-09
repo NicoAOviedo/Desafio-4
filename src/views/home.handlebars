@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Lista de Productos</title>
+</head>
+
+<body>
+  <h1 style="text-align: center;">Lista de Productos</h1>
+  <ul>
+    <div class="box">
+      {{#each products}}
+      <div class="unidad">
+        <li ><b>id del producto:</b>{{this.id}}
+        <br>
+        <b>Nombre de producto:</b>
+        <br>
+        {{this.title}} <br> <b>estado de producto:</b> {{this.description}} <br> $ {{this.price}}
+          <br> <b>Stock:</b>{{this.stock}} <br><b>categoria:</b>{{this.category}}
+        </li>
+      </div>
+      {{/each}}
+    </div>
+  </ul>
+</body>
+
+</html>
